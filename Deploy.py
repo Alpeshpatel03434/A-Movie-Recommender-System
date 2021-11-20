@@ -1,13 +1,15 @@
 import streamlit as st
 import requests
-import pickle
-# import joblib
+import joblib
+# import pickle
 
 st.header('A Movie Recommender System')
-#movies = joblib.load("model/Movie_List.sav")
-#similarity = joblib.load("model/Similarity.sav")
-movies = pickle.load(open("Movie_List.pkl", 'rb'))
-similarity = pickle.load(open("Similarity.pkl", 'rb'))
+movies = joblib.load("model/Movie_List.sav")
+similarity = joblib.load("model/Similarity.sav")
+##---------------------------------------------
+# pickle model
+#movies = pickle.load(open("model/Movie_List.pkl", 'rb'))
+#similarity = pickle.load(open("model/Similarity.pkl", 'rb'))
 
 
 def fetch_poster(movie_id):
