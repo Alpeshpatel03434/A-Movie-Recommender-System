@@ -25,7 +25,7 @@ Cosine similarity is a metric used to measure how similar the documents are irre
 
 <img src="temp/img4.png"></img>
 
-# How to run this project?
+# How to run this project (In your System)?
 
 1. Clone or download this repository to your local machine.
 2. Install all the libraries mentioned in the requirements.txt file with the command pip install -r requirements.txt
@@ -39,6 +39,11 @@ OR Direct executing the command -> streamlit run Deploy.py
 5. Go to your browser and type http://localhost:8501 in the address bar.
 6. Done 
 If any Issue face then contact me alpeshpatel03434@gmail.com
+
+## Deploy model in Streamlit
+
+Live Server - https://share.streamlit.io/alpeshpatel03434/a-movie-recommender-system/main/Deploy.py
+OR <a href="https://share.streamlit.io/alpeshpatel03434/a-movie-recommender-system/main/Deploy.py">Run it Live on Server</a>
 
 ## Dataset Used :
 
