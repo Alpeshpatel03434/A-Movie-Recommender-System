@@ -52,6 +52,6 @@ OR <a href="https://share.streamlit.io/alpeshpatel03434/a-movie-recommender-syst
 
 </hr>
 
-# Project Movie Recommender System.ipynb 
+# Project file - Movie Recommender System.ipynb 
 
 Movie Recommender System Using User-User Filtering through the Pearson Correlation Coefficient
