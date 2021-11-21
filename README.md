@@ -1,4 +1,5 @@
 # A-Movie-Recommender-System
+
 Recommendation systems are a collection of algorithms used to recommend items to users based on information taken from the user. These systems have become ubiquitous, and can be commonly seen in online stores, movies databases and job finders. In this notebook, I will implement Collaborative and Content-based recommendation systems using Python and the Pandas library.
 
 <img src="Output.png"></img>
@@ -49,3 +50,8 @@ OR <a href="https://share.streamlit.io/alpeshpatel03434/a-movie-recommender-syst
 
 <a href="https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset">IMDB 5000 Movie Dataset</a>
 
+</hr>
+
+# Project Movie Recommender System.ipynb 
+
+Movie Recommender System Using User-User Filtering through the Pearson Correlation Coefficient
