@@ -30,8 +30,7 @@ Cosine similarity is a metric used to measure how similar the documents are irre
 1. Clone or download this repository to your local machine.
 2. Install all the libraries mentioned in the requirements.txt file with the command pip install -r requirements.txt
 Python version - Python 3.9.5
-3. Unzip All Zip Files - Dataset, model, etc.
-Also model can found this repository master branch <br></br>
+3. Unzip All Zip Files - Dataset, model, etc. </br>
 <a href="https://drive.google.com/drive/folders/1ZxdD_jSt85_CWibJaza1-4I3Th_6bKzq?usp=sharing">pickle model</a> <br></br>
 OR <br></br>
 <a href="https://drive.google.com/drive/folders/1ycuddL3mt-WDkNc_9Vo83tan5VsMk0nl?usp=sharing">Joblib model</a>
