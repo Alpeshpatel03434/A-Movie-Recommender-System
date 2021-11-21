@@ -163,4 +163,4 @@ whois==0.9.13
 widgetsnbextension==3.5.1
 wrapt==1.12.1
 xlrd==2.0.1
-youtube-python==1.0.13
+streamlit
